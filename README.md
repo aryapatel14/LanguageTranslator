@@ -25,5 +25,6 @@ Contributions are welcome! If you'd like to improve this project by fixing bugs 
 Stay Connected: 
 Stay updated with the latest developments, bug fixes, and feature releases by following QRCodeGen on GitHub.
 
-GitHub Repository: Link to GitHub Repository
+GitHub Repository: 
+aryapatel14/LanguageTranslator/
 With this Language Translator, you can confidently bridge language barriers and connect with the world. Start translating now and experience the convenience of seamless communication, thoughtfully designed to make your interactions smoother and more accessible! 🌐🗣️"
